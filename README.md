@@ -17,4 +17,4 @@ okaasan おかあさん mother noun
 
 tonkatsu とんかつ pork;cutlet noun
 
-As seen above words the translate into two words should be seperated by a semicolon.
+As seen above the words that translate into two words should be seperated by a semicolon.
