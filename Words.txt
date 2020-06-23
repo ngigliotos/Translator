@@ -1,0 +1,148 @@
+desu です am verb unique None
+taberu たべる　eat verb ru None action
+kiku きく listen verb u None action
+iku いく go verb u None movement
+kaeru かえる return verb u None action
+nomu のむ drink verb u None action
+yomu　よむ read verb u None action
+hanasu　はなす speak verb u None action
+neru　ねる sleep verb ru None action
+okiru　おきる wake verb ru None action
+miru　みる see verb ru None action
+suru する do verb unique shi action
+kuru　くる come verb unique ki movement
+au あう　meet verb u None action
+kau　かう buy verb u None action
+kaku　かく write verb u None action
+toru　とる take verb u None action
+wakaru　わかる understand verb u None None
+enpitsu えんぴつ pencil noun
+boushi  ぼうし hat noun
+jitensha じてんしゃ bicycle noun
+kasa かさ umbrella noun
+kutsu くつ shoes noun
+saifu さいふ wallet noun
+hon ほん book noun
+tokei とけい watch noun
+kaban かばん bag noun
+shinbun しんぶん newspaper noun
+jisha じしゃ dictionary noun
+niku にく meat noun
+sakana　さかな fish noun
+oishii　おいしい delicious adjective
+ginkou ぎんこう bank place
+tonkatsu とんかつ pork;cutlet noun
+yasai やさい vegetables noun
+toshokan としょかん library place
+yuubinkyoku ゆうびんきょく post;office place
+kissaten きっさてん cafe place
+jinruigaku じんるいがく anthropology noun
+rekishi れきし history noun
+kokusaikankei こくさいかんけい international;student noun
+bengoshi べんごし lawyer noun
+kaishain かいしゃいん office;worker noun
+shigoto しごと job noun
+isha いしゃ doctor noun
+shufu しゅふ housewife noun
+daigakuinsee だいがくいんせい graduate;student noun
+daigakusei だいがくせい college;student noun
+koukousei こうこうせい highschool;student noun
+otousan おとうさん father noun
+okaasan おかあさん mother noun
+oniisan おにいさん brother noun
+oneesan おねえさん sister noun
+imouto いもうと sister noun
+otouto おとおと brother noun
+kankoku かんこく korea place
+chuugoku ちゅうごく china place
+ji じ o'clock time
+san さん Mr suffix
+gogo ごご P.M time
+ee ええ yes exclamation
+koukou こうこう high;school place
+jin　じん person suffix
+sai さい age noun
+gakusei がくせい student noun
+go ご language suffix
+now いま now time
+eego えいご english noun
+gozen ごぜん A.M time
+kagaku かがく science noun
+seiji せいじ politics noun
+bungaku ぶんがく literature noun
+kore これ this pointer
+sore　それ that pointer
+are　あれ that pointer
+dore　どれ which question
+kono　この this pointer;describing
+sono　その that pointer;describing
+ano　あの that pointer;describing
+koko　ここ here pointer
+soko　そこ there pointer
+asoko　あそこ there pointer
+doko　どこ where question
+dare　だれ who question
+watashi わたし i pronoun
+anata あなた　you pronoun
+bangohan ばんごはん dinner noun
+hirugohan ひるごはん lunch noun
+sasshi ざっし magazine noun
+ongaku おんがく music noun
+itsu いつ when time
+asagohan あさごはん breakfast noun
+osake おさけ sake noun
+mizu みず　water noun
+uchi うち house place
+maiban まいばん every;night timeN
+asa あさ morning time
+konban こんばん evening time
+ashita あした tomorrow timeN
+nichiyoubi にちようび sunday time
+doyoubi どようび saturday time
+getsuyoubi げつようび monday time
+kayoubi　かようび tuesday time
+suiyoubi　すいようび wednesday time
+mokuyoubi　もくようび thrusday time
+kinyoubi　きんよび　friday time
+mainichi まいにち every;day timeN
+ie いえ house place
+gakko がっこう school place
+eiga えいが movie noun
+shuumastu しゅうまつ weeekend time
+ocha おちゃ tea noun
+yoku よく often adverb
+taitei たいてい usually adverb
+ii いい good adjective
+hayai はやい early adjective
+chotto ちょっと a;little adverb
+zenzen ぜんぜん never adverbN
+amari　あまり not;much adverbN
+tokidoki ときどき sometimes adverb
+kyou きょう today timeN
+supoutsu スポーツ sports noun
+aisukuriimu アイスクリーム ice;cream noun
+terebi テレビ　TV noun
+nan なん　what question
+kaimono かいもの　shopping noun
+isu いす chair noun
+inu　いぬ dog noun
+omiyage　おみやげ souvenir noun
+kodomo　こども child noun
+gohan　ごはん rice noun
+shashin　しゃしん picture noun
+tsukue　つくえ desk noun
+tegami　てがみ letter noun
+neko　ねこ cat noun
+otera　おてら temple noun
+kouen　こうえん park noun
+byouin　びょういん hospital noun
+honya　ほにゃ bookstore noun
+machi　まち city noun
+kinou　きのう yesterday time
+PARTICLES
+ni に on to;time place
+be ベ to;place
+de で at;place
+ha は　N;pronoun
+wo を　the;noun
+ka か　?;question
